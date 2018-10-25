@@ -1,0 +1,72 @@
+[
+    {
+      "Labor_1996": 42.81,
+      "Labor_2006": 44.83,
+      "Labor_2016": 45.74,
+      "Parliament_2016": 28.7,
+      "Country": "Australia"
+    },
+    {
+      "Labor_1996": 45.02, 
+      "Labor_2006": 46.66,
+      "Labor_2016": 47.17,
+      "Parliament_2016": 26,
+      "Country": "Canada"
+    },
+    {
+      "Labor_1996": 42.75,
+      "Labor_2006": 44.93,
+      "Labor_2016": 46.24,
+      "Parliament_2016": 36.5,
+      "Country": "Germany"
+    },
+    {
+      "Labor_1996": 38.04,
+      "Labor_2006": 41.79,
+      "Labor_2016": 46.12,
+      "Parliament_2016": 39.1,
+      "Country": "Spain"
+    },
+    {
+      "Labor_1996": 44.61,
+      "Labor_2006": 46.26,
+      "Labor_2016": 47.18,
+      "Parliament_2016": 26.2,
+      "Country": "France"
+    },
+    {
+      "Labor_1996": 44.61,
+      "Labor_2006": 45.84,
+      "Labor_2016": 46.43,
+      "Parliament_2016": 29.6,
+      "Country": "UK"
+    },
+    {
+      "Labor_1996": 37.19,
+      "Labor_2006": 40.18,
+      "Labor_2016": 42.06,
+      "Parliament_2016": 31,
+      "Country": "Italy"
+    },
+    {
+      "Labor_1996": 40.34,
+      "Labor_2006": 41.24,
+      "Labor_2016": 42.72,
+      "Parliament_2016": 9.5,
+      "Country": "Japan"
+    },
+    {
+      "Labor_1996": 40.01,
+      "Labor_2006": 41.21,
+      "Labor_2016": 41.36,
+      "Parliament_2016": 17,
+      "Country": "Korea"
+    },
+    {
+      "Labor_1996": 45.34,
+      "Labor_2006": 45.77,
+      "Labor_2016": 45.88,
+      "Parliament_2016": 19.4,
+      "Country": "US"
+    }
+  ]
