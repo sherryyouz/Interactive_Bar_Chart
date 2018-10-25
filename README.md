@@ -1,4 +1,4 @@
-# INF 554 Assignment 8
+# Interactive Bar Chart
 
 In this assignment, I gathered the data of the labor force of women (% of total) in 2016 of 10 developed countries. I created an interactive bar chart. The project includes 4 files: a8.html, a8bar.js, style.css and the data file (LaborWomen.json). This chart allows you to manipulate the data by sorting and filtering. I hope you like it.
 All the data I used in this assignment were download from [worldbank.org](https://data.worldbank.org/?locations=AU-CA-FR-DE-IT-JP-KR-ES-GB-US)
